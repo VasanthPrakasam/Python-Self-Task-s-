@@ -1,12 +1,12 @@
 #Task 1 : is to assign the Donor based on the Blood group to the right counter using conditional Statement
 
-name = input("Enter name: ")
-age = int(input("Enter age: "))
-blood_group = input("Enter blood group: ").strip().upper()  
-# Standardizing input
-# Assigning blood groups to respective counters
-if blood_group == "A+":
-    counter = 1
+#name = input("Enter name: ")
+#age = int(input("Enter age: "))
+#blood_group = input("Enter blood group: ").strip().upper()  
+Standardizing input
+ Assigning blood groups to respective counters
+#if blood_group == "A+":
+    #counter = 1
 elif blood_group == "A-":
     counter = 2
 elif blood_group == "B+":
